@@ -7,7 +7,7 @@ import anoug from './src/assets/crewimage/image-anousheh-ansari.png'
 import mark from './src/assets/crewimage/image-mark-shuttleworth.png'
 import victor from './src/assets/crewimage/image-victor-glover.png'
 import space from './src/assets/technology/image-space-capsule-portrait.jpg'
-import capsule from './src/assets/technology/image-space-capsule-portrait.jpg'
+import capsule from './src/assets/technology/image-spaceport-portrait.jpg'
 import vehicle from './src/assets/technology/image-launch-vehicle-portrait.jpg'
 
 
@@ -78,12 +78,12 @@ export const technologies = [
     },
     {
       name: "Spaceport",
-      image : space,
+      image : capsule,
       description: "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
     },
     {
       name: "Space capsule",
-      image: capsule,
+      image: space,
       description: "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
     }
   ]
