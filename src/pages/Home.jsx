@@ -40,7 +40,7 @@ const Home = () => {
               </div>
             </div>
             <div>
-              <div className="text-3xl mt-9 sm:mt-32 bg-white md:rounded-full sm:rounded-full sm:py-20 sm:px-10 uppercase rounded-full py-20 px-10 mx-9 flex justify-center items-center">
+              <div className="animate-shake text-3xl mt-9 sm:mt-32 bg-white md:rounded-full sm:rounded-full sm:py-20 sm:px-10 uppercase rounded-full py-20 px-10 mx-9 flex justify-center items-center">
                 Explore
               </div>
             </div>
